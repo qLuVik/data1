@@ -1,0 +1,101 @@
+patient_id,last_name,first_name,birth,gender,blood_type,weight,allergies,chronic_diseases,dolv
+1,Karpfen,Dorita,4/19/2013,Female,O,57.9,Peanuts,arthritis,7/8/2010
+2,Cinderey,Phedra,9/16/2005,Female,AB,138.7,Penicillin,Crohn's disease,9/13/2023
+3,Hampshaw,Normand,6/10/2013,Male,A,282.1,Pollen,fibromyalgia,5/11/2019
+4,Bruntje,Bruno,8/16/1973,Male,B,271.9,Peanuts,fibromyalgia,7/28/2003
+5,Enns,Rhona,7/10/1903,Female,AB,68.6,Peanuts,fibromyalgia,6/13/2018
+6,Aiskovitch,Jacqueline,12/4/1971,Female,AB,452.0,Penicillin,Parkinson's,7/27/2018
+7,Voice,Krysta,5/16/2008,Female,B,449.1,Pollen,Crohn's disease,4/18/1993
+8,Dowda,Lyn,11/10/1921,Female,O,109.7,Pollen,asthma,10/26/1995
+9,Connew,Gerik,9/9/1980,Male,B,141.0,Penicillin,cancer,10/12/2007
+10,Blaskett,Kimmi,9/25/1999,Female,AB,273.9,Peanuts,cancer,5/30/2008
+11,Woodwin,Maggie,12/11/1974,Female,A,140.8,Pollen,diabetes,1/18/2010
+12,Hothersall,Seth,12/5/2012,Male,O,101.2,Penicillin,diabetes,11/30/1990
+13,Czajkowska,Donna,4/30/2010,Female,O,487.2,Peanuts,Parkinson's,3/25/1993
+14,Lardier,Miles,11/16/2008,Male,A,280.8,Peanuts,obesity,9/11/2022
+15,Cotilard,Rocky,10/29/1936,Male,A,167.3,Peanuts,fibromyalgia,7/20/2014
+16,Swaisland,Annabella,9/25/1966,Female,A,90.0,Pollen,asthma,4/9/1998
+17,Code,Nedi,9/17/1946,Female,A,399.5,Pollen,fibromyalgia,9/29/2009
+18,Everist,Cosette,3/8/1957,Female,AB,449.3,Pollen,Parkinson's,6/24/1999
+19,Pingstone,Filip,4/21/1979,Male,A,268.7,Penicillin,cancer,1/27/2001
+20,Gorvette,Taber,6/11/1968,Male,B,321.9,Pollen,hypertension,3/22/2011
+21,Caron,Jesselyn,1/12/1930,Female,AB,457.8,Peanuts,fibromyalgia,12/14/2022
+22,Letertre,Harriot,2/28/1953,Female,B,95.3,Peanuts,Parkinson's,1/12/1996
+23,Staker,Niall,12/14/1903,Male,AB,167.8,Pollen,hypertension,9/24/2017
+24,Dimeloe,Randi,10/4/1912,Male,AB,402.1,Penicillin,Alzheimer's,6/18/1991
+25,Giacobini,Latisha,11/24/1952,Female,B,365.9,Peanuts,hypertension,9/13/1992
+26,Bassam,Percy,7/3/1959,Male,A,370.8,Penicillin,cancer,5/15/1999
+27,Bamlett,Tommie,10/9/2004,Male,A,109.6,Peanuts,diabetes,11/21/2023
+28,Plumstead,Marice,12/12/2002,Female,AB,147.1,Penicillin,arthritis,9/25/2002
+29,Wheeler,Atlante,1/23/2002,Female,A,344.0,Peanuts,fibromyalgia,1/14/2003
+30,Aitken,Rancell,12/23/1945,Male,B,172.4,Penicillin,arthritis,10/13/2008
+31,Poynor,Elton,6/17/2000,Male,AB,111.4,Penicillin,Parkinson's,4/3/2003
+32,Milton,Dredi,8/13/1923,Female,O,152.5,Penicillin,asthma,3/20/1998
+33,Gibson,Nicol,2/12/1925,Male,AB,216.5,Pollen,Crohn's disease,2/21/1994
+34,Beedell,Jessalin,7/30/1903,Female,O,59.0,Penicillin,cancer,7/26/1995
+35,Banghe,Leanora,1/27/1923,Female,O,426.8,Pollen,Parkinson's,1/13/2015
+36,Purnell,Antonin,4/2/1900,Male,B,419.4,Peanuts,hypertension,7/12/2000
+37,Ragge,Bridgette,3/6/2013,Female,O,376.0,Pollen,Crohn's disease,9/8/2020
+38,Yeowell,Wynnie,2/23/1955,Female,O,235.7,Pollen,asthma,6/30/2003
+39,Rumbellow,Rica,3/6/1905,Female,B,454.7,Pollen,asthma,9/21/1998
+40,Jephcote,Moore,8/19/1905,Male,O,192.0,Pollen,Parkinson's,12/10/2013
+41,Knoton,Doe,10/1/1964,Female,AB,255.4,Pollen,diabetes,4/25/2008
+42,Blockley,Morton,11/20/2020,Male,A,100.3,Pollen,diabetes,12/7/2010
+43,Matityahu,Charlton,3/21/1991,Male,A,333.0,Peanuts,diabetes,5/16/2001
+44,Forcade,Claudian,4/28/1910,Male,A,475.3,Pollen,arthritis,7/3/2005
+45,Leathley,Mamie,3/8/1937,Female,A,158.3,Pollen,arthritis,9/29/2021
+46,Chittock,Vladimir,7/12/2016,Male,AB,262.4,Pollen,diabetes,6/18/1993
+47,Aitken,Basile,9/1/1906,Male,AB,469.4,Pollen,fibromyalgia,8/27/2019
+48,Belchamber,Leif,8/12/1992,Male,AB,199.3,Pollen,fibromyalgia,9/17/1990
+49,Dinesen,Milka,12/16/1931,Female,AB,221.2,Penicillin,cancer,1/17/2019
+50,Burnard,Nancy,2/26/1960,Female,AB,114.0,Peanuts,diabetes,5/25/2013
+51,Malkin,Bonita,12/20/1958,Female,B,334.9,Penicillin,arthritis,2/5/2005
+52,Braganca,Errol,8/23/1922,Male,B,54.1,Peanuts,fibromyalgia,9/26/2017
+53,Girkin,Sansone,3/22/1903,Male,A,86.4,Pollen,arthritis,2/4/2024
+54,Comelli,Sayers,8/4/2021,Male,O,63.9,Penicillin,cancer,2/8/2018
+55,Davidde,Brianne,1/1/1922,Female,A,78.1,Peanuts,diabetes,5/5/2003
+56,Syphas,Jasmin,7/7/1992,Female,B,117.6,Penicillin,Parkinson's,11/19/1992
+57,Casone,Eryn,6/6/1956,Female,A,440.5,Pollen,Crohn's disease,3/20/2000
+58,Dainton,Chelsey,5/3/2015,Female,O,399.8,Penicillin,diabetes,9/30/2004
+59,Bucklee,Arlie,5/9/2012,Female,B,484.4,Peanuts,asthma,4/13/2021
+60,Gaspar,Susanne,11/27/1999,Female,A,305.6,Pollen,hypertension,7/11/1992
+61,Pischoff,Barr,4/19/1974,Male,O,482.6,Penicillin,obesity,7/25/1995
+62,Kollach,Norri,8/13/1956,Female,O,411.9,Penicillin,fibromyalgia,6/3/2022
+63,Loble,Hobart,9/4/1955,Male,A,155.6,Pollen,obesity,3/24/2006
+64,Sorro,Turner,4/17/1934,Male,A,473.1,Pollen,Crohn's disease,2/5/2012
+65,MacKartan,Lorrayne,9/22/1951,Female,A,195.2,Pollen,asthma,10/17/2009
+66,Witten,Rutledge,10/24/1917,Male,B,100.2,Pollen,obesity,3/3/2007
+67,Pattingson,Elijah,9/29/2002,Male,A,271.5,Penicillin,hypertension,12/29/2023
+68,Manuaud,Harriott,12/1/1900,Female,O,202.1,Penicillin,arthritis,1/19/2011
+69,Barensen,Onida,10/6/1984,Female,AB,408.7,Penicillin,cancer,8/19/2008
+70,Presswell,Margy,11/16/1932,Female,A,241.3,Peanuts,cancer,7/8/2005
+71,Huygen,Grissel,5/6/1932,Female,A,286.3,Penicillin,arthritis,11/25/2003
+72,Buxam,Wildon,4/3/1942,Male,B,115.9,Peanuts,arthritis,10/11/1993
+73,Szabo,Catharine,5/12/1999,Female,AB,201.7,Pollen,Parkinson's,9/11/1993
+74,Gorling,Arlyn,12/4/1992,Female,AB,263.1,Penicillin,Crohn's disease,7/1/2024
+75,Dunge,Abbi,7/30/1995,Female,AB,414.7,Penicillin,Alzheimer's,6/29/2012
+76,Purtell,Judd,11/4/1955,Male,O,187.0,Pollen,fibromyalgia,7/31/1990
+77,Giacobbo,Emelyne,1/20/1922,Female,AB,97.4,Pollen,hypertension,2/23/2009
+78,Skillman,Weider,4/29/1925,Male,B,110.2,Peanuts,diabetes,1/10/2007
+79,Geare,Mildrid,6/24/2005,Female,A,371.8,Pollen,fibromyalgia,9/5/2004
+80,McCrudden,Fritz,4/25/2009,Male,AB,370.2,Peanuts,cancer,8/2/2001
+81,Kermitt,Kacie,2/20/2008,Female,B,107.5,Penicillin,Crohn's disease,6/19/2022
+82,Wrintmore,Marni,12/20/2004,Female,AB,217.0,Penicillin,asthma,2/18/1995
+83,Squibe,Elijah,5/21/1930,Male,A,215.4,Peanuts,cancer,2/22/2007
+84,Van Ross,Mercedes,4/4/1961,Female,AB,340.7,Peanuts,hypertension,7/25/2005
+85,Bengall,Kerwinn,4/7/1985,Male,A,82.9,Peanuts,asthma,7/9/2006
+86,Franceschi,Josi,1/6/1968,Female,AB,157.1,Peanuts,Parkinson's,1/21/1994
+87,Harrowing,Thelma,2/4/1972,Female,O,488.5,Peanuts,cancer,12/8/2002
+88,McGougan,Raquela,4/30/1981,Female,A,153.7,Pollen,diabetes,8/13/2021
+89,Bwy,Kyle,5/5/1914,Male,B,459.5,Peanuts,diabetes,7/28/2015
+90,Fitter,Agnes,3/16/2015,Female,B,390.8,Pollen,hypertension,5/21/1992
+91,Bensusan,Sandy,10/26/1998,Male,B,135.9,Peanuts,obesity,10/4/2005
+92,Station,Cornela,3/26/2003,Female,A,123.5,Peanuts,diabetes,5/14/2014
+93,Paolini,Bentley,3/25/1974,Male,AB,100.2,Peanuts,Alzheimer's,4/12/2024
+94,Dobrowski,Kip,9/25/1923,Female,A,186.1,Penicillin,hypertension,10/4/2013
+95,Spall,Wes,2/1/1960,Male,A,111.7,Penicillin,hypertension,6/2/2012
+96,Sabater,Fabio,1/4/1954,Male,A,300.3,Penicillin,Parkinson's,1/28/2015
+97,Larvin,Christoffer,3/16/2012,Male,O,396.6,Penicillin,fibromyalgia,10/29/2004
+98,Everal,Tisha,1/12/1969,Female,O,213.6,Pollen,hypertension,1/31/2017
+99,Challicombe,Luci,3/15/1956,Female,AB,113.2,Pollen,Crohn's disease,4/13/2002
+100,Leeder,Bette-ann,12/15/1925,Female,B,241.2,Peanuts,asthma,12/31/1994
